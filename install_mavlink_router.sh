@@ -3,7 +3,7 @@
 echo "================================================================="
 echo "MavlinkAnywhere: Mavlink-router Installation Script"
 echo "Author: Alireza Ghaderi"
-echo "GitHub: https://github.com/alireza787b/mavlink-anywhere"
+echo "GitHub: https://github.com/oakaww/mavlink-anywhere"
 echo "Contact: p30planets@gmail.com"
 echo "================================================================="
 
