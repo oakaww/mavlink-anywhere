@@ -52,7 +52,7 @@ Our installation script seamlessly installs `mavlink-router` on your companion c
 ### Usage
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/alireza787b/mavlink-anywhere.git
+   git clone https://github.com/oakaww/mavlink-anywhere.git
    cd mavlink-anywhere
    ```
 2. **Run the installation script:**
